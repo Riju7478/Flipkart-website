@@ -1,0 +1,38 @@
+.text-center{
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+   
+}
+.btn{
+    padding: 5px 7px;
+color: white;
+background-color: #2874f0;
+border: 2px solid white;
+border-radius: 7px;
+cursor: pointer;
+}
+
+.view{
+padding: 10px 24px;
+margin: 7px 44px;
+color: white;
+background-color: #2874f0;
+border: 2px solid white;
+border-radius: 5px;
+cursor: pointer;
+}
+
+@media (max-width:1200px) {
+    .btn{
+        margin: 3px 45px;
+       
+    }
+
+    footer {
+        
+        height: 7vh;
+      
+    }
+    
+}
